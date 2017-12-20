@@ -1,6 +1,6 @@
 The flight data information file should be formatted with the number of flights in the first line.
 Each line after that should look like this: location|location|cost|time
-The flgihts work on the assumption that each flight has an opposite counterpart going and does not factor in lay-overs
+The flights work on the assumption that each flight has an opposite counterpart
 
 Example:
 4
