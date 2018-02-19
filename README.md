@@ -3,6 +3,7 @@ Each line after that should look like this: location|location|cost|time
 The flights work on the assumption that each flight has an opposite counterpart
 
 Example:
+
 4
 
 CVG|DFW|100|150
